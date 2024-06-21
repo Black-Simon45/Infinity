@@ -1,2 +1,0 @@
-# Infinity
-Curso de FullStack 
